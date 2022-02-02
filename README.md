@@ -10,6 +10,12 @@ Experiment with react portal
 </ul>
 
 
-
 <h2>Credits</h2>
 This is based on <a href='https://codepen.io/gaearon/pen/yzMaBd'>Dan Abramov code</a>. I have introduced hooks instead of class component
+
+
+<h2>Setup</h2>
+<ul>
+<li>npm i</li>
+<li>npm run dev</li>
+</ul>
