@@ -1,5 +1,5 @@
 <h2>Motivation</h2>
-Understand react portal
+Experiment with react portal
 
 
 <h2>Points of interest</h2>
