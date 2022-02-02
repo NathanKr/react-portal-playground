@@ -30,7 +30,6 @@ function App() {
         <p>
           This is being rendered inside the modal container div : modal-root.
         </p>
-
         <button onClick={handleHide}>Hide modal</button>
       </div>
     </Modal>
