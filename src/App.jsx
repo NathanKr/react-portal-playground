@@ -6,7 +6,6 @@ import { useState } from "react";
 // render it wherever we like without needing to know that it's
 // implemented with portals.
 function App() {
-  useState;
   const [showModal, setShowModal] = useState(false);
 
   const handleShow = () => {
